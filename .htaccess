@@ -1,2 +1,2 @@
 RewriteEngine On
-RewriteRule ^mon-cv$ cv.html [QSA]
+RewriteRule ^mon-cv$ index.html [QSA]
